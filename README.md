@@ -1,4 +1,4 @@
-# mav2ex
+# Mav2EX
 Display Mavlink telemetry values on your Jeti radio
 
 Minimized version, optimized for AutoQuad flight controllers.

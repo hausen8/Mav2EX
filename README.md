@@ -3,6 +3,9 @@ Display Mavlink telemetry values on your Jeti radio
 
 Minimized version, optimized for AutoQuad flight controllers.
 
+Required Libraries:
+FastSerialLeo and GCS_MAVLink from https://github.com/DevFor8/Mav2Duplex
+
 Transmitted values:
 - Armed/disarmed
 - Battery voltage
